@@ -27,7 +27,7 @@ This is a fully-functioning full-stack expense tracker, built using the MERN Sta
     npm run client
     ```
 
-## Building the Client for Production
+## Building only the Client for Production
 Ensure that `NODE_ENV=production` inside `config.env`. Then, run the following commands:
 ```
 cd client

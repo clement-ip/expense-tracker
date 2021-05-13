@@ -9,21 +9,30 @@ This is a fully-functioning full-stack expense tracker, built using the MERN Sta
 
 2. Run the following commands in this order:
 
-    i. Install the Server first: `npm install`
+    i. Install the Server first: 
+    ```
+    npm install
+    ````
     
     ii. Then install the Client:
     ```
-        cd client
-        npm install
+    cd client
+    npm install
     ``` 
-3. Start both the front and back-ends using `npm run dev`.
+3. Start both the front and back-ends:
+    ```
+    npm run dev
+    ```
 
 4. Additional Commands:
-    ```
-    # To run only the back-end
-    npm run server
     
-    # To run only the front-end
+    i. To run only the back-end:
+    ```
+    npm run server
+    ```
+
+    ii. To run only the front-end:
+    ```
     npm run client
     ```
 

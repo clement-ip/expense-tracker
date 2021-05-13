@@ -28,7 +28,7 @@ body {
 
 .container {
   margin: 20px auto;
-  width: 350px;
+  /* width: 350px; */
 }
 
 h1 {
